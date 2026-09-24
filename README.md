@@ -55,7 +55,7 @@ python3 test.py
 
 ## Disclaimer
 
-this project is for educational purposes , Always verify suspicious URLs through multiple sources.
+this project is made for self educational purposes , Always verify suspicious URLs through multiple sources.
 ## Screenshot 
 <img width="1920" height="1080" alt="Screenshot_2026-08-18_00_05_27" src="https://github.com/user-attachments/assets/72c3c3f7-9e92-46ee-933e-613e38d1c29f" />
 <img width="1920" height="1080" alt="Screenshot_2026-08-18_00_05_25" src="https://github.com/user-attachments/assets/d28bde5a-d96e-4e86-943d-31ed2b6c8953" />
